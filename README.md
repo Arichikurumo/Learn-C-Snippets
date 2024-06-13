@@ -9,10 +9,13 @@ The repository is organized by tutorial topics. Each topic has its own directory
 	.
 	├── 01_Hello_World
 	│   └── hello_world.c
+ 	│   └── task.md
 	├── 02_Variables_and_Types
 	│   └── variables_and_types.c
+  	│   └── task.md
 	├── 03_Arrays
 	│   └── arrays.c
+  	│   └── task.md
 	...
 
 ## Getting Started
