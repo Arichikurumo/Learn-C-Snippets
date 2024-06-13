@@ -9,10 +9,13 @@ The repository is organized by tutorial topics. Each topic has its own directory
 	.
 	├── 01_Hello_World
 	│   └── hello_world.c
+ 	│   └── task.md
 	├── 02_Variables_and_Types
 	│   └── variables_and_types.c
+  	│   └── task.md
 	├── 03_Arrays
 	│   └── arrays.c
+  	│   └── task.md
 	...
 
 ## Getting Started
@@ -20,8 +23,8 @@ The repository is organized by tutorial topics. Each topic has its own directory
 To get started, simply clone the repository and navigate to the topic of interest. You can compile and run the examples using a C compiler like gcc.
 Prerequisites
 
-    A C compiler (e.g., gcc)
-    Basic knowledge of C programming
+- C compiler (e.g., gcc)
+- Basic knowledge of C programming
 
 ### Cloning the Repository
 
@@ -50,7 +53,7 @@ Contributions are welcome! If you find an issue or have a suggestion, please ope
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
 
 ## Acknowledgements
 
