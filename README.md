@@ -5,6 +5,7 @@ Welcome to the Learn C Code Snippets repository! This repository contains all th
 ## Contents
 
 The repository is organized by tutorial topics. Each topic has its own directory containing the relevant code snippets. Here's a brief overview of the directory structure:
+
 .
 ├── 01_Hello_World
 │   └── hello_world.c
@@ -13,6 +14,7 @@ The repository is organized by tutorial topics. Each topic has its own directory
 ├── 03_Arrays
 │   └── arrays.c
 ...
+
 
 ## Getting Started
 
