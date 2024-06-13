@@ -53,7 +53,7 @@ Contributions are welcome! If you find an issue or have a suggestion, please ope
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
 
 ## Acknowledgements
 
