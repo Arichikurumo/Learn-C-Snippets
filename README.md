@@ -26,6 +26,34 @@ Prerequisites
 ### Cloning the Repository
 
   ```bash
-  $ git clone https://github.com/yourusername/learn-c-snippets.git
+  $ git clone https://github.com/Arichikurumo/learn-c-snippets.git
   $ cd learn-c-snippets
   ```
+### Running the Code
+
+Navigate to the directory containing the code snippet you want to run and compile it using your C compiler. For example:
+	
+	cd 01_Hello_World
+	gcc hello_world.c -o hello_world
+	./hello_world
+
+## Contributing
+Contributions are welcome! If you find an issue or have a suggestion, please open an issue or create a pull request. Make sure to follow the existing code style and include comments where necessary.
+
+### Creating a Pull Request
+
+    Fork the repository
+    Create a new branch (git checkout -b feature/my-feature)
+    Commit your changes (git commit -am 'Add new feature')
+    Push to the branch (git push origin feature/my-feature)
+    Create a new Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+
+Thanks to [learn-c.org](https://learn-c.org) for providing the tutorials and the initial inspiration for this repository.
+
+Happy coding!
