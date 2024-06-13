@@ -23,8 +23,8 @@ The repository is organized by tutorial topics. Each topic has its own directory
 To get started, simply clone the repository and navigate to the topic of interest. You can compile and run the examples using a C compiler like gcc.
 Prerequisites
 
-    A C compiler (e.g., gcc)
-    Basic knowledge of C programming
+- C compiler (e.g., gcc)
+- Basic knowledge of C programming
 
 ### Cloning the Repository
 
