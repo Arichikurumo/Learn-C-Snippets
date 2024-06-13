@@ -6,15 +6,14 @@ Welcome to the Learn C Code Snippets repository! This repository contains all th
 
 The repository is organized by tutorial topics. Each topic has its own directory containing the relevant code snippets. Here's a brief overview of the directory structure:
 
-.
-├── 01_Hello_World
-│   └── hello_world.c
-├── 02_Variables_and_Types
-│   └── variables_and_types.c
-├── 03_Arrays
-│   └── arrays.c
-...
-
+	.
+	├── 01_Hello_World
+	│   └── hello_world.c
+	├── 02_Variables_and_Types
+	│   └── variables_and_types.c
+	├── 03_Arrays
+	│   └── arrays.c
+	...
 
 ## Getting Started
 
